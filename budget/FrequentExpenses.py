@@ -1,4 +1,6 @@
 from . import Expense
 
-expensese = Expense.Expences():
+expensese = Expense.Expences()
+
+
 
